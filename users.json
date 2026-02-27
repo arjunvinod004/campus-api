@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"campus_api"},
+{"type":"table","name":"users","database":"campus_api","data":
+[
+{"id":"2","name":"Arjun","email":"arjunvt045@example.com","email_verified_at":null,"password":"$2y$12$TBPpbQE50wFsXZMkY3E0P.PL\/ssLtgBIlGYyegkz4cRweyzhf6UQq","remember_token":null,"created_at":"2026-02-26 16:58:21","updated_at":"2026-02-26 16:58:21","department":"ECE","year":"2024"},
+{"id":"3","name":"sreeraj","email":"sreeraj12@gmail.com","email_verified_at":null,"password":"$2y$12$MHQDZyqMcKSFvG0k.1cxauqsp0kUyV4NJWUl3U1GtXj1meOfcVMzy","remember_token":null,"created_at":"2026-02-26 17:33:59","updated_at":"2026-02-26 17:33:59","department":"ECE","year":"2020"}
+]
+}
+]

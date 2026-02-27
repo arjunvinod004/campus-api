@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"campus_api"},
+{"type":"table","name":"assignments","database":"campus_api","data":
+[
+{"id":"3","user_id":"2","title":"Science Project22","description":"Solar system model22","subject":"Commerce","status":"Pending","created_at":"2026-02-26 17:29:12","updated_at":"2026-02-26 17:32:16"},
+{"id":"4","user_id":"2","title":"Science Project2","description":"Solar system model2","subject":"Commerce","status":"Pending","created_at":"2026-02-26 17:31:27","updated_at":"2026-02-26 17:31:27"},
+{"id":"5","user_id":"3","title":"Science Project3","description":"Solar system model3","subject":"Science","status":"Pending","created_at":"2026-02-26 17:35:11","updated_at":"2026-02-26 17:35:11"}
+]
+}
+]
