@@ -10,7 +10,7 @@ http://127.0.0.1:8000/api/assignments (add assignment against user)
 <!-- above api has body has bearer token also get this bearer if user login to get this token -->
 
 <!-- get  assignments against that token -->
-http://127.0.0.1:8000/api/assignments (get assignment)
+http://127.0.0.1:8000/api/assignments (get assignment against token)
 
 <!-- update assignments -->
 http://127.0.0.1:8000/api/assignments/3 (edit assignment)
